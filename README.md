@@ -1,7 +1,7 @@
 # Conversor JPG para PNG
 
 ## Descrição
-Aplicativo desktop para conversão de imagens JPG/JPEG para formato PNG com opções de redimensionamento. Desenvolvido em Python com interface Tkinter e biblioteca Pillow para processamento de imagens.
+Ferramenta para conversão de imagens JPG/JPEG para formato PNG com opções de redimensionamento. Desenvolvido em Python com interface Tkinter e biblioteca Pillow para processamento de imagens.
 
 ## Funcionalidades Principais
 ### Conversão de Imagens
@@ -53,7 +53,7 @@ MIT License - Disponível para uso e modificação. Consulte o arquivo LICENSE p
 # JPG to PNG Converter
 
 ## Description
-Desktop application for converting JPG/JPEG images to PNG format with resizing options. Developed in Python with Tkinter interface and Pillow library for image processing.
+Tool for converting JPG/JPEG images to PNG format with resizing options. Developed in Python with Tkinter interface and Pillow library for image processing.
 
 ## Key Features
 ### Image Conversion
