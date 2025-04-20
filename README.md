@@ -29,8 +29,7 @@ pip install pillow
 
 
 ## Como Utilizar
-1. Execute o aplicativo:
-jpg_to_png_converter.exe
+1. Execute o aplicativo: python jpg_to_png_converter.py
 
 2. Selecione a pasta de origem contendo imagens JPG/JPEG
 
@@ -81,8 +80,7 @@ Install dependencies:
 pip install pillow
 
 ## How to Use
-1. Run the application:
-jpg_to_png_converter.exe
+1. Run the application: python jpg_to_png_converter.py
 
 2. Select source folder containing JPG/JPEG images
 
