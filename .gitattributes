@@ -1,0 +1,5 @@
+*.py linguist-language=Python
+*.html linguist-language=ignore
+*.spec linguist-language=ignore
+*.tex linguist-language=ignore
+*.exe linguist-language=ignore
