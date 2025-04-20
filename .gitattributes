@@ -1,8 +1,7 @@
 *.py linguist-language=Python
 *.md linguist-language=Python
 *.txt linguist-language=Python
-*.rst linguist-language=Python
-*.exe linguist-language=ignore
-*.tex linguist-language=ignore
-*.spec linguist-language=ignore
 *.html linguist-language=ignore
+*.tex linguist-language=ignore
+*.exe linguist-language=ignore
+*.spec linguist-language=ignore
